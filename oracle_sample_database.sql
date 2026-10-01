@@ -3,7 +3,6 @@
 -- Link	       : https://www.oracletutorial.com/getting-started/oracle-sample-database/
 -- Version     : 1.1
 -- Last Updated: April-24-2025
--- Copyright   : Copyright © 2025 by www.oracletutorial.com. All Rights Reserved.
 -- Notice      : Use this sample database for the educational purpose only.
 --               Credit the site oracletutorial.com explitly in your materials that
 --               use this sample database.
