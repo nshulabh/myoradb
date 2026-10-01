@@ -3256,3 +3256,4 @@ ALTER TABLE inventories ENABLE CONSTRAINT fk_inventories_warehouses;
 
 -- 
 SET DEFINE ON;
+COMMIT;
