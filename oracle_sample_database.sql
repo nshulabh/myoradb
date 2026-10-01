@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------------
 -- Name	       : OT (Oracle Tutorial) Sample Database
 -- Link	       : https://www.oracletutorial.com/getting-started/oracle-sample-database/
--- Version     : 1.1
+-- Version     : 1.2
 -- Last Updated: April-24-2025
 -- Notice      : Use this sample database for the educational purpose only.
 --               Credit the site oracletutorial.com explitly in your materials that
